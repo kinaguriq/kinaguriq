@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kinaguriq. My real name is Владислав (Vladislav).
+- 👋 Hi, I’m @kinaguriq. My real name is Владимир (Vladimir).
 - 👀 I’m interested in UX/UI design.
 - 🌱 I’m currently learning HTML and CSS. Also I know JavaScript.
 - 💞️ I’m looking to collaborate on open-source projects. Feel free to DM me.
